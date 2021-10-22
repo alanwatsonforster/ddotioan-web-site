@@ -1,6 +1,12 @@
 # DDOTI: Publications
 
 * Refereed Science Papers
+  * Dichiara et al. 2021, ApJ, submitted:
+    "Constraints on the electromagnetic counterpart of the Neutron Star Black Hole merger GW200115"</br>
+    ApJ, submitted
+  * Becerra et al. 2021, MNRAS 507, 1401: 
+    "DDOTI observations of gravitational-wave sources discovered in O3"</br>
+    [ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1401B/abstract)
   * Thakur et al. 2020, MNRAS, 499, 3868: 
     "A search for optical and near-infrared counterparts of the compact binary merger GW190814"</br>
     [ADS](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.3868T/abstract)
