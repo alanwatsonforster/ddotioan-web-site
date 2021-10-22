@@ -53,6 +53,7 @@ install			:	all
 	  --include=*.css \
 	  --include=*.mp4 \
 	  --exclude=* \
+	  --exclude=.git* \
 	  . transientscu-services:/usr/local/var/www/ddoti/html
 
 clean			:
