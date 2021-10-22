@@ -1,7 +1,7 @@
 # DDOTI: Status
  
-## DDOTI/OAN
+## DDOTI
 
-DDOTI/OAN is currently in operating normally.
+DDOTI is currently in out of service due to a failure in the mount controller.
 
-Last updated: 2020 November3 21.
+Last updated: 2020 October 22.
