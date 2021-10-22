@@ -6,7 +6,7 @@ These works are licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 
 <a href="gallery/20190512T182100.jpg"><img src="gallery/20190512T182100-small.jpg" style="width: 60%;"/></a>
 
-The six DDOTI/OAN telescopes.
+The six DDOTI telescopes.
 
 * [Full Resolution](gallery/20190512T182100.jpg)
 * Copyright (c) 2019 Alan M. Watson
@@ -33,7 +33,7 @@ La maja vestida; the DDOTI enclosure open and closed at the end of the day.
 
 <a href="gallery/20180607T094356.jpg"><img src="gallery/20180607T094356-small.jpg" style="width: 60%;"/></a>
 
-The two DDOTI/OAN telescope showing the prime-focus CCDs mounted on
+The two DDOTI telescope showing the prime-focus CCDs mounted on
 their corrector lenses. We park the telescopes pointed slightly below
 the northern horizion to keep dust of the corrector lenses.
 
@@ -44,7 +44,7 @@ the northern horizion to keep dust of the corrector lenses.
 
 <a href="gallery/20180607T200102.jpg"><img src="gallery/20180607T200102-small.jpg" style="width: 60%;"/></a>
 
-The two DDOTI/OAN telescope taking evening twilight flats.
+The two DDOTI telescope taking evening twilight flats.
 
 * [Full Resolution](gallery/20180607T200102.jpg)
 * Copyright (c) 2018 Alan M. Watson
@@ -53,7 +53,7 @@ The two DDOTI/OAN telescope taking evening twilight flats.
 
 <a href="gallery/20180607T200502.jpg"><img src="gallery/20180607T200502-small.jpg" style="width: 60%;"/></a>
 
-DDOTI/OAN (left foreground), [COATLI](http://coatli.astroscu.unam.mx/) (center background), and the 84-cm telescope open at twilight.
+DDOTI (left foreground), [COATLI](http://coatli.astroscu.unam.mx/) (center background), and the 84-cm telescope open at twilight.
 
 * [Full Resolution](gallery/20180607T200502.jpg)
 * Copyright (c) 2018 Alan M. Watson
@@ -62,7 +62,7 @@ DDOTI/OAN (left foreground), [COATLI](http://coatli.astroscu.unam.mx/) (center b
 
 <a href="gallery/20180607T093820.jpg"><img src="gallery/20180607T093820-small.jpg" style="width: 60%;"/></a>
 
-DDOTI/OAN (left foreground) with the enclosure partially open, [COATLI](http://coatli.astroscu.unam.mx/) (center background, partially hidden behind DDOTI/OAN), and the 84-cm telescope.
+DDOTI (left foreground) with the enclosure partially open, [COATLI](http://coatli.astroscu.unam.mx/) (center background, partially hidden behind DDOTI), and the 84-cm telescope.
 
 * [Full Resolution](gallery/20180607T093820.jpg)
 * Copyright (c) 2018 Alan M. Watson
