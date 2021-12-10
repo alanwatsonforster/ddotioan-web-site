@@ -1,9 +1,9 @@
 # DDOTI: Publications
 
 * Refereed Science Papers
-  * Dichiara et al. 2021, ApJ, submitted:
+  * Dichiara et al. 2021, ApJ, accepted:
     "Constraints on the electromagnetic counterpart of the Neutron Star Black Hole merger GW200115"</br>
-    ApJ, submitted
+    [arXiv](https://arxiv.org/abs/2110.12047)
   * Becerra et al. 2021, MNRAS 507, 1401: 
     "DDOTI observations of gravitational-wave sources discovered in O3"</br>
     [ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1401B/abstract)
@@ -16,7 +16,7 @@
 
 * [GCN Circulars](https://gcn.gsfc.nasa.gov/gcn3_circulars.html)
   * [All](https://bit.ly/2M4Z7Wt) (49 circulars so far)
-  * [2021](https://bit.ly/2Zgdy3g) (25 circulars so far)
+  * [2021](https://bit.ly/3pvrFMB) (25 circulars so far)
   * [2020](https://bit.ly/2Hsjd9z) (14 circulars)
   * [2019](https://bit.ly/2ObrpS9) (9 circulars)
   * [2018](https://bit.ly/37sNsdc) (1 circular)
@@ -27,4 +27,4 @@
   [ADS](https://ui.adsabs.harvard.edu/abs/2016SPIE.9910E..0GW/abstract) | [SPIE](https://www.spiedigitallibrary.org/redirect/proceedings/proceeding?doi=10.1117/12.2232898)
 | [Local Copy](watson-2016.pdf)
 
-Last update: 2021 October 22
+Last update: 2021 November 05
