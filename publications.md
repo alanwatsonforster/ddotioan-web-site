@@ -3,10 +3,10 @@
 * Refereed Science Papers
   * Pereyra et al. 2022, MNRAS, accepted:
     "GRB 191016A: The onset of the forward shock and evidence of late energy injection"</br>
-    [arXiv](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp..407P/abstract)
+    [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp..407P/abstract)
   * Dichiara et al. 2021, ApJL, 923:
     "Constraints on the electromagnetic counterpart of the Neutron Star Black Hole merger GW200115"</br>
-    [arXiv](https://ui.adsabs.harvard.edu/abs/2021ApJ...923L..32D/abstract)
+    [ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...923L..32D/abstract)
   * Becerra et al. 2021, MNRAS 507, 1401: 
     "DDOTI observations of gravitational-wave sources discovered in O3"</br>
     [ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.1401B/abstract)
