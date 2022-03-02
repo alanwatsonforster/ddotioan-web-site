@@ -55,3 +55,4 @@ DDOTI is lead by:
 
 * Alan Watson (Co-PI, Technical Lead, and Project Manager)
 * William Lee (Co-PI)
+* Margarita Pereyra (Project Scientist)
