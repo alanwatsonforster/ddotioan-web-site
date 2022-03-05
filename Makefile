@@ -44,7 +44,7 @@ all			:	index.html \
 
 install			:	all
 	rsync -v --chmod=u=rwX,go=rX \
-	  ddoti.conf transientscu-services:/etc/apache2/sites-enabled/
+	  ddoti.conf /etc/apache2/sites-enabled/
 	rsync -ahv --chmod=u=rwX,go=rX --delete \
 	  --include=*/ \
 	  --include=*.html \
@@ -54,7 +54,7 @@ install			:	all
 	  --include=*.mp4 \
 	  --exclude=* \
 	  --exclude=.git* \
-	  . transientscu-services:/usr/local/var/www/ddoti/html
+	  . /usr/local/var/www/ddoti/html
 
 clean			:
 	-rm -f *.html
