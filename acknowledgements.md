@@ -16,7 +16,7 @@ IG100414, IT102715, AG100317, IN109418, IG100820, and IN105921), the NASA
 Goddard Space Flight Center, and the University of Maryland (NNX17AK54G). DDOTI
 is operated and maintained by the Observatorio Astronómico Nacional and the
 Instituto de Astronomía of the Universidad Nacional Autónoma de México.  We
-acknowledge the contribution of Neil Gehrels to the development of RATIR.
+acknowledge the contribution of Neil Gehrels to the development of DDOTI.
 </blockquote>
 
 In LaTeX, with escaped accents, this is:
@@ -32,6 +32,6 @@ University of Maryland (NNX17AK54G). DDOTI is operated and maintained by the
 Observatorio Astron\\&apos;omico Nacional and the Instituto de
 Astronom{\\&apos;\\i}a of the Universidad Nacional Aut\\&apos;onoma de
 M\\&apos;exico. We
-acknowledge the contribution of Neil Gehrels to the development of RATIR.
+acknowledge the contribution of Neil Gehrels to the development of DDOTI.
 </blockquote>
 
