@@ -33,6 +33,7 @@ all			:	index.html \
 				acknowledgements.html \
 				contact.html \
 				search.html \
+				news-2021.html \
 				news-2020.html \
 				news-2019.html \
 				news-2018.html \
