@@ -26,7 +26,7 @@
 .SUFFIXES:  .md .html
 .md.html			:
 	./make-html "$*".md >"$*".html
-	
+
 ########################################################################
 
 all			:	index.html \
@@ -46,6 +46,7 @@ install			:	all
 	rsync -v --chmod=u=rwX,go=rX \
 	  ddoti.conf /etc/apache2/sites-enabled/
 	rsync -ahv --chmod=u=rwX,go=rX --delete \
+	  --exclude=.git/ \
 	  --include=*/ \
 	  --include=*.html \
 	  --include=*.pdf \
