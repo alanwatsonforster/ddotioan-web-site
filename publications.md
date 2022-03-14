@@ -1,7 +1,7 @@
 # DDOTI: Publications
 
 * Refereed Science Papers
-  * Pereyra et al. 2022, MNRAS, accepted:
+  * Pereyra et al. 2022, MNRAS, 511, 6205:
     "GRB 191016A: The onset of the forward shock and evidence of late energy injection"</br>
     [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp..407P/abstract)
   * Dichiara et al. 2021, ApJL, 923:
