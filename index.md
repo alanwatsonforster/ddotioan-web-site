@@ -28,7 +28,7 @@ Local](watson-2016.pdf)).
 <hr/>
 
 * [Status](status.html)
-* [News](news-2021.html)
+* [News](news-2022.html)
 * Using Data
   - [Acknowledgements in Publications](acknowledgements.html)
 * [Publications](publications.html)
