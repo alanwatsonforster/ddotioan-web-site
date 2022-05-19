@@ -46,18 +46,19 @@ all			:	index.html \
 
 install			:	all
 	rsync -v --chmod=u=rwX,go=rX \
-	  ddoti.conf /etc/apache2/sites-enabled/
+	  ddoti.conf transientscu-services:/etc/apache2/sites-enabled/
 	rsync -ahv --chmod=u=rwX,go=rX --delete \
 	  --exclude=.git/ \
 	  --include=*/ \
 	  --include=*.html \
 	  --include=*.pdf \
 	  --include=*.jpg \
+	  --include=*.png \
 	  --include=*.css \
 	  --include=*.mp4 \
 	  --exclude=* \
 	  --exclude=.git* \
-	  . /usr/local/var/www/ddoti/html
+	  . transientscu-services:/usr/local/var/www/ddoti/html
 
 clean			:
 	-rm -f *.html
